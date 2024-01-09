@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Paing-YeYint.
 - 👀 I’m interested in motor cars.
-- 🌱 I’m currently learning Mechanical Engineering, Sustainable Product Development.
-- 💞️ I’m looking to collaborate on somewhere......over the rainbow.....
-- 📫 You can reach me via mailbox. Joo, kiitos! Hyvää päivä!
+- 🌱 I’m currently learning Mechanical Engineering, Sustainable Product Development and Python.
+- 💞️ I’m looking to collaborate with industrial and technological companies.
+- 📫 You can reach me via paingyeyint27@gmail.com.
 
 <!---
 Paing-YeYint/Paing-YeYint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
